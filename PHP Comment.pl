@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+# Comment should be not in tab view.
+
 $comment_open = "/**";
 $comment_close = " */";
 
